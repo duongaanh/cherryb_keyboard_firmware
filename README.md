@@ -1,1 +1,1 @@
-# CherryB Studio keyboard firmware repository
+# CherryB Studio keyboard complied firmware repository
